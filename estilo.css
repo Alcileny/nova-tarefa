@@ -1,0 +1,31 @@
+:root{
+    background-color: rgb(231, 117, 155);
+}
+
+div{
+    justify-content: center;
+    text-align: center;
+}
+
+
+
+  button {
+    background-color: #055317; 
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-right: 5px;
+}
+ li {
+    
+    display: flex;
+    justify-content: center;
+     
+} 
+
+  li button {
+    margin-top: 35px;
+
+}
